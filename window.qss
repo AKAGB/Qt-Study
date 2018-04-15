@@ -1,0 +1,7 @@
+QPushButton:active {
+    outline: none;
+}
+
+QPushButton:hover {
+    background-color: #bf0917;
+}
